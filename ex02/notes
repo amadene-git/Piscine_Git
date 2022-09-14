@@ -1,0 +1,2 @@
+git restore --stage <file>
+https://git-scm.com/book/fr/v2/Les-bases-de-Git-Annuler-des-actions
